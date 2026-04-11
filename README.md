@@ -24,10 +24,8 @@ Resultados obtenidos: \-Se pudo observar un notorio cambio en la trayectoria del
 
 **Trayectoria del robot observada sin ruido:**  
 ![](imagenes/trayectoria_ideal.png)
-![][Lab-1-robotica/imagenes/trayectoria ideal.png]  
 **Trayectoria del robot observada con ruido:**
-
-**![][image2]**
+![](imagenes/trayectoria_ruido.png)
 
 *(Los videos del comportamiento del robot y su trayectoria se encuentran en el repositorio, carpeta “Videos”)*
 
