@@ -38,8 +38,8 @@ En cambio cuando se le agrega ruido, el robot vibra y se comporta de manera err�
 
 1\. ¿Qué ocurre cuando ambas ruedas tienen la misma velocidad?  
 A una misma velocidad, el robot se deberá mover en línea recta. Si se modifica el ruido en True o False, la trayectoria puede ser perfectamente recta (misma distancia por segundo) o se desvíe constantemente.  
-![][image3]  
-![][image4]
+![](imagenes/misma_velocidad_ideal.png)
+![](imagenes/misma_velocidad_ruido.png)
 
 2\. ¿Cómo cambia la trayectoria cuando las velocidades son diferentes?  
 Al cambiar la velocidad de la rueda a un valor mayor o menor, el robot tendrá una trayectoria curvilínea, la rueda con menor velocidad hará que el robot gire sobre esta dirección. Si se activa el ruido, el radio de la curva cambiará cada milisegundo.  
