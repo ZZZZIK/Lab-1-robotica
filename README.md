@@ -48,8 +48,8 @@ Al cambiar la velocidad de la rueda a un valor mayor o menor, el robot tendrá u
 
 3\. ¿Qué ocurre cuando una rueda gira en sentido opuesto a la otra?   
 Al cambiar el sentido de la misma velocidad en ambas ruedas, el robot girará sobre sí mismo.  
-![][image7]  
-![][image8]
+![](imagenes/ruedas_opuestas_ideal.png) 
+![](imagenes/ruedas_opuestas_ruido.png) 
 
 4\. ¿Qué tipo de movimiento permite dibujar un círculo?  
 Un movimiento de radio constante (sin que ninguna rueda esté estática), manteniendo una diferencia de velocidad constante entre las dos ruedas.  
