@@ -22,10 +22,10 @@ Paso 1: Descargar los archivos del repositorio de Github Paso 2: Ejecutar Webots
 
 Resultados obtenidos: \-Se pudo observar un notorio cambio en la trayectoria del Robot al modificar el valor de Ruido para cada rueda, pues provoco movimientos erraticos sin seguir la trayectoria predefinida. \-Al modificar la velocidad de las ruedas de manera que sean desiguales, el robot va a girar hacia el lado de la rueda con velocidad mas baja. \-Si omitimos el ruido y dejamos las ruedas con igual velocidad, el robot se mueve en linea recta. \-Si las velocidades de ambas ruedas son un numero y su inverso aditivo respectivamente, el robot va a girar sobre su propio eje.
 
-**Trayectoria del robot observada sin ruido:**  
-![](imagenes/trayectoria_ideal.png) <br>
+**Trayectoria del robot observada sin ruido:** <br>  
+![](imagenes/trayectoria_ideal.png)
 
-**Trayectoria del robot observada con ruido:**
+**Trayectoria del robot observada con ruido:** <br>
 ![](imagenes/trayectoria_ruido.png)
 
 *(Los videos del comportamiento del robot y su trayectoria se encuentran en el repositorio, carpeta “Videos”)*
