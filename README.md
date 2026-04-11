@@ -24,6 +24,7 @@ Resultados obtenidos: \-Se pudo observar un notorio cambio en la trayectoria del
 
 **Trayectoria del robot observada sin ruido:**  
 ![](imagenes/trayectoria_ideal.png)
+
 **Trayectoria del robot observada con ruido:**
 ![](imagenes/trayectoria_ruido.png)
 
