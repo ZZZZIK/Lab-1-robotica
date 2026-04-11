@@ -43,8 +43,8 @@ A una misma velocidad, el robot se deberá mover en línea recta. Si se modifica
 
 2\. ¿Cómo cambia la trayectoria cuando las velocidades son diferentes?  
 Al cambiar la velocidad de la rueda a un valor mayor o menor, el robot tendrá una trayectoria curvilínea, la rueda con menor velocidad hará que el robot gire sobre esta dirección. Si se activa el ruido, el radio de la curva cambiará cada milisegundo.  
-![][image5]  
-![][image6]
+![](imagenes/diferentes_velocidad_ideal.png)
+![](imagenes/diferentes_velocidad_ruido.png)
 
 3\. ¿Qué ocurre cuando una rueda gira en sentido opuesto a la otra?   
 Al cambiar el sentido de la misma velocidad en ambas ruedas, el robot girará sobre sí mismo.  
